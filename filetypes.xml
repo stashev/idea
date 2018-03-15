@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="newDetails_309518678" type="PLAIN_TEXT" />
+      <mapping pattern="HadAccident" type="TypeScript JSX" />
+      <mapping pattern="PreviousOwner" type="TypeScript JSX" />
+      <mapping pattern="OnlineSince" type="TypeScript JSX" />
+      <mapping pattern="oldDetails_309518678" type="XML" />
+    </extensionMap>
+  </component>
+</application>
