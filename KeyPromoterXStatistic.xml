@@ -22,7 +22,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>44</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste Simple">
@@ -38,7 +38,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>14</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -95,6 +95,14 @@
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Directory">
+        <Item>
+          <IdeaActionID>NewDir</IdeaActionID>
+          <Description>Directory</Description>
         </Item>
       </Statistic>
     </option>
