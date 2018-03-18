@@ -41,6 +41,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Go fmt project">
+        <Item>
+          <IdeaActionID>GoFmtProjectAction</IdeaActionID>
+          <ShortCut>'⌥⇧⌘P'</ShortCut>
+          <Description>Go fmt project</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Go generate file">
+        <Item>
+          <IdeaActionID>GoGenerateFileAction</IdeaActionID>
+          <ShortCut>'⌥⌘G'</ShortCut>
+          <Description>Go generate file</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="GoTo">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
@@ -94,6 +110,14 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebuild ...learn-go-with-tests'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Rebuild ...learn-go-with-tests'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
