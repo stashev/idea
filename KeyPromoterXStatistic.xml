@@ -153,6 +153,12 @@
           <Description>Directory</Description>
         </Item>
       </Statistic>
+      <Statistic Action="sbt shell">
+        <Item>
+          <IdeaActionID>ActivatesbtshellToolWindow</IdeaActionID>
+          <Description>sbt shell</Description>
+        </Item>
+      </Statistic>
     </option>
   </component>
 </application>
