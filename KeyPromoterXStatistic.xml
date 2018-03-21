@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>428</Count>
+          <Count>441</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -127,6 +127,14 @@
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Rebuild ...learn-go-with-tests'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MakeModelModelline tags'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'MakeModelModelline tags'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'MakeModelModelline tags.include tag for selected make and model'">
