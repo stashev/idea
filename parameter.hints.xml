@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="TypeScript">
         <added pattern="Array.filter(callbackfn,thisArg)" />
+        <added pattern="jest.Matchers.toContain(expected)" />
       </blacklist>
     </blacklists>
   </component>
