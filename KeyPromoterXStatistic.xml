@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>807</Count>
+          <Count>816</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -278,7 +278,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FilterTagsBuilder.test.ts'">
@@ -294,6 +294,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Unnamed'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run Scala Console">
+        <Item>
+          <IdeaActionID>Scala.RunConsole</IdeaActionID>
+          <ShortCut>'⇧⌘D'</ShortCut>
+          <Description>Run Scala Console</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
